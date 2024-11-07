@@ -1,7 +1,9 @@
 # quarto-ai
 ![image info](/quarto/QuartoGameImage.png)
 An interactive AI game for coffee shops and bakeries that turns wait time into a fun, social experience. Connects customers together and adds entertainment while waiting for orders, making the wait less boring and more engaging.
-![](/quarto/quarto.mp4)
+<video width="320" height="240" controls>
+  <source src="/quarto-ai/quarto/quarto.mp4" type="video/mp4">
+</video>
 
 ![image info](/quarto/Quarto%20Bakery%20Layout.png)
 
@@ -10,3 +12,4 @@ In terms of the algorithm, I was struggling to make the agent using Minimax thin
 Another future logistic is to clean up the code system. I was both brainstorming and coding this game so the code looks a bit messy right now. I'm in the middle of cleaning the runner.py with a modular approach. 
 
 One more thing I would like to try is implement 3D graphics to the game. Though proved running time was longer, I would still want to give it another try.
+
