@@ -1,9 +1,7 @@
 # quarto-ai
 ![image info](/quarto/QuartoGameImage.png)
 An interactive AI game for coffee shops and bakeries that turns wait time into a fun, social experience. Connects customers together and adds entertainment while waiting for orders, making the wait less boring and more engaging.
-<video width="320" height="240" controls>
-  <source src="/quarto/quarto.mp4" type="video/mp4">
-</video>
+<div><video controls src="/quarto/quarto.mp4" muted="false"></video></div>
 
 ![image info](/quarto/Quarto%20Bakery%20Layout.png)
 
